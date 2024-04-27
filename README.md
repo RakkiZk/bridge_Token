@@ -25,5 +25,5 @@ Before deploying your contract using Hardhat, ensure you have the following inst
 3. **Run Deployments**
 
     Execute your deployment ignition using Hardhat. For example, to deploy to the arbitrum sepolia and sepolia  network:
-        ```bash
+    ```bash
     npx hardhat run --network <"Network"> ignition/deploy.js
